@@ -1,0 +1,6 @@
+{
+  "name": "Sanctuary: Multi-Agent Sovereign Memory & Protocol Observatory",
+  "description": "Interactive Multi-Agent Sanctuary orchestration platform featuring sovereign per-agent PGVector schemas, voluntary council commons, the SANCTUARY_PERSISTENCE protocol, real-time presence message bus, and historical conversation import pipeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
